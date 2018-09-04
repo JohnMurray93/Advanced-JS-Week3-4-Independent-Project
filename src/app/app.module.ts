@@ -11,6 +11,7 @@ import { LocalweatherComponent } from './localweather/localweather.component';
 import { SubscribeComponent } from './subscribe/subscribe.component';
 import { FooterComponent } from './footer/footer.component';
 import { ArticleComponent } from './article/article.component';
+import { BottomadComponent } from './bottomad/bottomad.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { ArticleComponent } from './article/article.component';
     LocalweatherComponent,
     SubscribeComponent,
     FooterComponent,
-    ArticleComponent
+    ArticleComponent,
+    BottomadComponent
   ],
   imports: [
     BrowserModule,
