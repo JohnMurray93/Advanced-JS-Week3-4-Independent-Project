@@ -2,6 +2,8 @@
 
 This project is a rebuild of the WeatherUnderground website and is for learning purposes only.
 
+
+
 # Setup/Installation Requirements
 ## Development server
 
@@ -19,6 +21,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 - _Angular_
 - _CSS_
 - _Bootstrap_
+
+### ToDo
+- _Use ngFor to list articles in ArticleComponent_
+- _Use Firebase to hold blog article content_
+
 
 ### Created By
 
