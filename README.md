@@ -27,5 +27,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ### License
 
 {MIT License}
-
-Copyright (c) 2017 **_{John Murray}_**
