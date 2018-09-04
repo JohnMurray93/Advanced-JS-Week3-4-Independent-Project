@@ -14,6 +14,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ArticleComponent } from './article/article.component';
 import { BottomadComponent } from './bottomad/bottomad.component';
 import { BlogComponent } from './blog/blog.component';
+import { HomeComponent } from './home/home.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { BlogComponent } from './blog/blog.component';
     FooterComponent,
     ArticleComponent,
     BottomadComponent,
-    BlogComponent
+    BlogComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
